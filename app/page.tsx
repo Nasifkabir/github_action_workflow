@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Nasif's Github Action Workflow
+            Nasif Kabir Github Action Workflow
           </a>
         </div>
       </main>
